@@ -1,0 +1,8 @@
+site_name: Arko Dapp Migration Guide
+theme: readthedocs
+extra_css: [extra.css]
+markdown_extensions:
+    - toc:
+        permalink: 
+nav:
+  - Home: index.md
