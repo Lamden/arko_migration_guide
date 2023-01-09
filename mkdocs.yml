@@ -6,3 +6,8 @@ markdown_extensions:
         permalink: 
 nav:
   - Home: index.md
+  - Block Structure: block_structure.md
+  - Transactions: transactions.md
+  - Block Service: block_service.md
+  - Wallet Connections: wallet_connections.md
+
