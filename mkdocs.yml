@@ -9,5 +9,5 @@ nav:
   - Block Structure: block_structure.md
   - Transactions: transactions.md
   - Block Service: block_service.md
-  - Wallet Connections: wallet_connections.md
+  - Lamden Vault API: lamden_vault_api.md
 
